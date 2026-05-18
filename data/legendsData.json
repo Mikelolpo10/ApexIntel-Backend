@@ -1,0 +1,705 @@
+[
+  {
+    "name": "Alter",
+    "realName": "Ying Ling Lui",
+    "nickname": "Void Breacher",
+    "quote": "Reality is just another wall waiting to be broken.",
+    "path": "/legends/alter",
+    "img": "/images/legends/alter.jpg",
+    "class": "Skirmisher",
+    "gender": "Female",
+    "age": "Unknown",
+    "homeworld": "Unknown",
+    "passive": {
+      "img": "/images/legends/abilities/gift_from_the_rift.webp",
+      "name": "Gift From The Rift",
+      "description": "Can remotely interact with a deathbox to claim one item. Cannot be a shield core."
+    },
+    "tactical": {
+      "img": "/images/legends/abilities/void_passage.webp",
+      "name": "Void Passage",
+      "description": "Creates a portal passageway through a surface"
+    },
+    "ultimate": {
+      "img": "/images/legends/abilities/void_nexus.webp",
+      "name": "Void Nexus",
+      "description": "Create a regroup point that all allies can remotely interact with to open a phase tunnel back to that location."
+    },
+    "description": "Alter manipulates the fabric of reality to create tactical advantages. She can phase through dimensions and create void passages, allowing her team to reposition quickly and escape dangerous situations. Her abilities make her a master of flanking and unpredictable movement."
+  },
+  {
+    "name": "Ash",
+    "realName": "Dr. Ashleigh Reid",
+    "nickname": "Incisive Instigator",
+    "quote": "You made the mistake of facing me.",
+    "path": "/legends/ash",
+    "img": "/images/legends/ash.jpg",
+    "class": "Skirmisher",
+    "gender": "Female",
+    "age": "121 (46 as human)",
+    "homeworld": "Unknown",
+    "passive": {
+      "name": "Marked for Death",
+      "description": "Ash's map reveals the location of recent deathboxes and marks surviving attackers."
+    },
+    "tactical": {
+      "name": "Arc Snare",
+      "description": "Throw a spinning snare that damages and tethers the first enemy that gets too close."
+    },
+    "ultimate": {
+      "name": "Phase Breach",
+      "description": "Tear open a one-way portal to a targeted location."
+    },
+    "description": "A simulacrum pilot with a cold, calculating demeanor, Ash excels at hunting down enemies and controlling engagements. She can mark death locations, snare enemies with arc tethers, and create one-way portals for aggressive pushes or quick rotations."
+  },
+  {
+    "name": "Axle",
+    "realName": "Unknown",
+    "nickname": "Combat Racer",
+    "quote": "Catch me if you can.",
+    "path": "/legends/axle",
+    "img": "/images/legends/axle.jpg",
+    "class": "Skirmisher",
+    "gender": "Male",
+    "age": "Unknown",
+    "homeworld": "Unknown",
+    "passive": {
+      "name": "Speed Boost",
+      "description": "Gains increased movement speed after eliminations or assists."
+    },
+    "tactical": {
+      "name": "Nitro Rush",
+      "description": "Deploys a speed boost that propels Axle forward rapidly."
+    },
+    "ultimate": {
+      "name": "Velocity Drive",
+      "description": "Creates a speed track that boosts all teammates who use it."
+    },
+    "description": "A speed-focused legend who thrives in high-octane combat scenarios. Axle combines racing expertise with tactical warfare, utilizing enhanced mobility and velocity-based abilities to outmaneuver opponents and control the pace of battle."
+  },
+  {
+    "name": "Ballistic",
+    "realName": "August Montgomery Brinkman",
+    "nickname": "Refined Gunslinger",
+    "quote": "Style and precision win every duel.",
+    "path": "/legends/ballistic",
+    "img": "/images/legends/ballistic.jpg",
+    "class": "Assault",
+    "gender": "Male",
+    "age": "63",
+    "homeworld": "Gaea",
+    "passive": {
+      "name": "Sling",
+      "description": "Store a third weapon in the sling. Access the sling weapon using the toggle ability button."
+    },
+    "tactical": {
+      "name": "Whistler",
+      "description": "Shoots a device that heats up an enemy's gun as they shoot. Overheating causes damage."
+    },
+    "ultimate": {
+      "name": "Tempest",
+      "description": "Nearby teammates get faster reloads, faster-charging armed and dangerous, and infinite ammo. Ballistic has faster movement and infinite ammo."
+    },
+    "description": "A legendary duelist who brings old-school gunfighting prowess to the arena. Ballistic can enhance his weapon handling, carry a third weapon in his ultimate, and provide tactical support with his sling that stores weapons and gives advantages in firefights."
+  },
+  {
+    "name": "Bangalore",
+    "realName": "Anita Williams",
+    "nickname": "Professional Soldier",
+    "quote": "Target spotted. Move fast, hit hard.",
+    "path": "/legends/bangalore",
+    "img": "/images/legends/bangalore.jpg",
+    "class": "Assault",
+    "gender": "Female",
+    "age": "41",
+    "homeworld": "Gridiron",
+    "passive": {
+      "name": "Double Time",
+      "description": "Taking fire while sprinting makes you move faster for a brief time."
+    },
+    "tactical": {
+      "name": "Smoke Launcher",
+      "description": "Fire a high-velocity smoke canister that explodes into a smoke wall on impact."
+    },
+    "ultimate": {
+      "name": "Rolling Thunder",
+      "description": "Call in an artillery strike that slowly creeps across the landscape."
+    },
+    "description": "An IMC veteran and professional soldier, Bangalore excels at tactical warfare. She moves faster under fire, deploys smoke canisters for cover and confusion, and calls in devastating artillery strikes to control zones and punish caught enemies."
+  },
+  {
+    "name": "Bloodhound",
+    "realName": "Unknown",
+    "nickname": "Technological Tracker",
+    "quote": "I honor those who've risen, not those who've fallen.",
+    "path": "/legends/bloodhound",
+    "img": "/images/legends/bloodhound.jpg",
+    "class": "Recon",
+    "gender": "Non-binary",
+    "age": "Unknown",
+    "homeworld": "Talos",
+    "passive": {
+      "name": "Tracker",
+      "description": "See tracks left behind by your foes."
+    },
+    "tactical": {
+      "name": "Eye of the Allfather",
+      "description": "Briefly reveal hidden enemies, traps, and clues throughout structures in front of you."
+    },
+    "ultimate": {
+      "name": "Beast of the Hunt",
+      "description": "Enhances your senses, allowing you to move faster and highlighting your prey."
+    },
+    "description": "A mysterious tracker who uses advanced technology to hunt their prey. Bloodhound can scan surroundings to reveal enemy positions, see recent tracks and clues, and enter Beast of the Hunt mode for enhanced speed and tracking abilities."
+  },
+  {
+    "name": "Catalyst",
+    "realName": "Tressa Crystal Smith",
+    "nickname": "Defensive Conjurer",
+    "quote": "Control the battlefield, control the outcome.",
+    "path": "/legends/catalyst",
+    "img": "/images/legends/catalyst.jpg",
+    "class": "Controller",
+    "gender": "Female (Transgender)",
+    "age": "30",
+    "homeworld": "Boreas",
+    "passive": {
+      "name": "Barricade",
+      "description": "Reinforce doors, strengthening them and locking them to enemies. Spaces where doors have been destroyed can also be reinforced."
+    },
+    "tactical": {
+      "name": "Piercing Spikes",
+      "description": "Throw out a patch of ferrofluid that turns into spikes when enemies are near. Catalyst is immune."
+    },
+    "ultimate": {
+      "name": "Dark Veil",
+      "description": "Raise a permeable wall of ferrofluid. Enemies who walk through it are slowed and partially blinded."
+    },
+    "description": "A witty terraformer who uses ferrofluid to reshape the battlefield. Catalyst creates impenetrable dark walls, reinforces doors to make them harder to breach, and deploys patches of ferrofluid that slow and partially blind enemies who walk through them."
+  },
+  {
+    "name": "Caustic",
+    "realName": "Dr. Alexander Maxwell Nox",
+    "nickname": "Toxic Trapper",
+    "quote": "I feel most alive when rapidly approaching my death.",
+    "path": "/legends/caustic",
+    "img": "/images/legends/caustic.jpg",
+    "class": "Controller",
+    "gender": "Male",
+    "age": "48",
+    "homeworld": "Gaea",
+    "passive": {
+      "name": "Nox Vision",
+      "description": "Allows you to see enemies through your gas."
+    },
+    "tactical": {
+      "name": "Nox Gas Trap",
+      "description": "Drop canisters that release deadly Nox gas when shot or triggered by enemies."
+    },
+    "ultimate": {
+      "name": "Nox Gas Grenade",
+      "description": "Blankets a large area in Nox gas."
+    },
+    "description": "A toxic scientist who treats the arena as his laboratory. Caustic deploys deadly Nox gas traps that damage and disorient enemies, sees clearly through his own gas, and can blanket entire areas with his ultimate gas grenade for area denial."
+  },
+  {
+    "name": "Conduit",
+    "realName": "Rowdy Agajanya",
+    "nickname": "Shield Healer",
+    "quote": "Energy up! Let's keep everyone standing.",
+    "path": "/legends/conduit",
+    "img": "/images/legends/conduit.jpg",
+    "class": "Support",
+    "gender": "Female",
+    "age": "28",
+    "homeworld": "Kaikaina",
+    "passive": {
+      "name": "Savior's Speed",
+      "description": "Gain a burst of speed towards allies that need health or shields."
+    },
+    "tactical": {
+      "name": "Radiant Transfer",
+      "description": "Send out an energy ball that regenerates the shields of the first teammate it hits."
+    },
+    "ultimate": {
+      "name": "Energy Barricade",
+      "description": "Deploy a device that creates a regeneration zone, gradually restoring shields to Conduit and her teammates inside."
+    },
+    "description": "An energetic support legend who channels electrical energy to aid her team. Conduit can regenerate shields for herself and nearby allies, create energy barriers for protection, and provide sustained shield regeneration to keep her squad in the fight longer."
+  },
+  {
+    "name": "Crypto",
+    "realName": "Park Tae Joon",
+    "nickname": "Surveillance Expert",
+    "quote": "I don't trust anyone.",
+    "path": "/legends/crypto",
+    "img": "/images/legends/crypto.jpg",
+    "class": "Recon",
+    "gender": "Male",
+    "age": "31",
+    "homeworld": "Gaea",
+    "passive": {
+      "name": "Neurolink",
+      "description": "Enemies detected by the surveillance drone within 30 meters of your position are marked for you and your teammates to see."
+    },
+    "tactical": {
+      "name": "Surveillance Drone",
+      "description": "Deploy an aerial drone that can be controlled remotely to scout the area and mark enemies."
+    },
+    "ultimate": {
+      "name": "Drone EMP",
+      "description": "Charge up an EMP from your drone. The blast deals shield damage, slows enemies, and destroys traps."
+    },
+    "description": "A brilliant hacker who uses his surveillance drone for reconnaissance and disruption. Crypto can scout areas safely, detect nearby enemies, hack survey beacons, and deploy an EMP that damages shields, destroys traps, and disables enemy equipment."
+  },
+  {
+    "name": "Fuse",
+    "realName": "Walter Fitzroy",
+    "nickname": "Explosives Enthusiast",
+    "quote": "This is gonna be a blast, mate!",
+    "path": "/legends/fuse",
+    "img": "/images/legends/fuse.jpg",
+    "class": "Assault",
+    "gender": "Male",
+    "age": "54",
+    "homeworld": "Salvo",
+    "passive": {
+      "name": "Grenadier",
+      "description": "Stack an extra grenade per inventory slot. Fire grenades farther, faster, and more accurately with your arm-mounted launcher."
+    },
+    "tactical": {
+      "name": "Knuckle Cluster",
+      "description": "Launch a cluster bomb that continuously expels airburst explosives on impact."
+    },
+    "ultimate": {
+      "name": "The Motherload",
+      "description": "Launch a bombardment that encircles a target area in a wall of flame."
+    },
+    "description": "An explosives expert from Salvo who loves a good brawl. Fuse carries extra grenades, launches them farther and more accurately with his mechanical arm, fires cluster bombs with his knuckle cluster, and encircles enemies with his Motherload ring of fire."
+  },
+  {
+    "name": "Gibraltar",
+    "realName": "Makoa Gibraltar",
+    "nickname": "Shielded Fortress",
+    "quote": "Don't worry, bruddah, Gibraltar's got your back.",
+    "path": "/legends/gibraltar",
+    "img": "/images/legends/gibraltar.jpg",
+    "class": "Support",
+    "gender": "Male",
+    "age": "30",
+    "homeworld": "Solace",
+    "passive": {
+      "name": "Gun Shield",
+      "description": "Aiming down sights deploys a gun shield that blocks incoming fire."
+    },
+    "tactical": {
+      "name": "Dome of Protection",
+      "description": "Throw down a dome shield that blocks attacks for 15 seconds."
+    },
+    "ultimate": {
+      "name": "Defensive Bombardment",
+      "description": "Call in a concentrated mortar strike on a marked position."
+    },
+    "description": "A gentle giant and protective defender who shields his teammates from harm. Gibraltar deploys a gun shield when aiming, throws down dome shields for full protection, and calls in defensive bombardments that damage enemies while providing cover for revives."
+  },
+  {
+    "name": "Horizon",
+    "realName": "Dr. Mary Somers",
+    "nickname": "Gravitational Manipulator",
+    "quote": "Another soft landing.",
+    "path": "/legends/horizon",
+    "img": "/images/legends/horizon.jpg",
+    "class": "Skirmisher",
+    "gender": "Female",
+    "age": "125 (37 chronologically)",
+    "homeworld": "Psamathe",
+    "passive": {
+      "name": "Spacewalk",
+      "description": "Increase air control and reduce fall impacts with Horizon's custom spacesuit."
+    },
+    "tactical": {
+      "name": "Gravity Lift",
+      "description": "Reverse the flow of gravity, lifting players upward and boosting them outward when they exit."
+    },
+    "ultimate": {
+      "name": "Black Hole",
+      "description": "Deploy NEWT to create a micro black hole that pulls players in towards it."
+    },
+    "description": "A brilliant astrophysicist who controls gravity to her advantage. Horizon deploys gravity lifts for vertical mobility, maintains increased air control, and creates black holes with NEWT that pull in nearby enemies and objects, making them easy targets."
+  },
+  {
+    "name": "Lifeline",
+    "realName": "Ajay Che",
+    "nickname": "Combat Medic",
+    "quote": "Never leave your squad behind.",
+    "path": "/legends/lifeline",
+    "img": "/images/legends/lifeline.jpg",
+    "class": "Support",
+    "gender": "Female",
+    "age": "24",
+    "homeworld": "Psamathe",
+    "passive": {
+      "name": "Combat Revive",
+      "description": "Deploy D.O.C. to revive teammates, leaving you free to move and defend."
+    },
+    "tactical": {
+      "name": "D.O.C. Heal Drone",
+      "description": "The Drone of Compassion (D.O.C.) automatically heals nearby teammates over time."
+    },
+    "ultimate": {
+      "name": "Care Package",
+      "description": "Call in a drop pod full of high-quality defensive gear."
+    },
+    "description": "The heart of any squad and a dedicated combat medic. Lifeline deploys D.O.C. heal drone for automated healing, can revive teammates with a shield wall, and calls in care packages containing valuable equipment and healing supplies for her team."
+  },
+  {
+    "name": "Loba",
+    "realName": "Loba Andrade",
+    "nickname": "Translocating Thief",
+    "quote": "I'm a woman who knows what she wants.",
+    "path": "/legends/loba",
+    "img": "/images/legends/loba.jpg",
+    "class": "Support",
+    "gender": "Female",
+    "age": "34",
+    "homeworld": "Unknown",
+    "passive": {
+      "name": "Eye for Quality",
+      "description": "Nearby epic and legendary loot can be seen through walls. The range is the same as Black Market Boutique."
+    },
+    "tactical": {
+      "name": "Burglar's Best Friend",
+      "description": "Teleport to hard-to-reach places or escape trouble quickly by throwing your jump drive bracelet."
+    },
+    "ultimate": {
+      "name": "Black Market Boutique",
+      "description": "Place a portable device that allows you to teleport nearby loot to your inventory. Each friendly or enemy Legend can take up to two items."
+    },
+    "description": "A high-society thief with a taste for the finer things. Loba teleports using her bracelet for repositioning, sees nearby purple and gold loot through walls, and deploys her Black Market to let her team grab valuable items from the surrounding area."
+  },
+  {
+    "name": "Mad Maggie",
+    "realName": "Margaret Kōhere",
+    "nickname": "Rebel Warlord",
+    "quote": "Fight dirty or die clean.",
+    "path": "/legends/mad-maggie",
+    "img": "/images/legends/mad-maggie.jpg",
+    "class": "Assault",
+    "gender": "Female",
+    "age": "55",
+    "homeworld": "Salvo",
+    "passive": {
+      "name": "Warlord's Ire",
+      "description": "Temporarily highlight enemies you've damaged. Move faster with a shotgun."
+    },
+    "tactical": {
+      "name": "Riot Drill",
+      "description": "Fire a drill that attaches to an obstacle and burns enemies on the other side."
+    },
+    "ultimate": {
+      "name": "Wrecking Ball",
+      "description": "Throw a ball that releases speed-boosting pads and detonates near enemies."
+    },
+    "description": "A fierce warlord from Salvo who loves chaos and aggression. Mad Maggie runs faster with shotguns, sees enemies she's damaged, drills through obstacles with her Riot Drill to damage enemies behind cover, and rolls a wrecking ball that speeds up teammates and highlights enemies."
+  },
+  {
+    "name": "Mirage",
+    "realName": "Elliott Witt",
+    "nickname": "Holographic Trickster",
+    "quote": "You got bamboozled!",
+    "path": "/legends/mirage",
+    "img": "/images/legends/mirage.jpg",
+    "class": "Support",
+    "gender": "Male",
+    "age": "30",
+    "homeworld": "Solace",
+    "passive": {
+      "name": "Now You See Me...",
+      "description": "Automatically cloak when using a Respawn Beacon and reviving teammates. Spawn decoys when downed."
+    },
+    "tactical": {
+      "name": "Psyche Out",
+      "description": "Send out a holographic decoy to confuse the enemy."
+    },
+    "ultimate": {
+      "name": "Life of the Party",
+      "description": "Mirage deploys a team of decoys to distract enemies while he cloaks."
+    },
+    "description": "A charming trickster who uses holographic technology to confuse enemies. Mirage sends out decoys to bait opponents, becomes invisible when reviving teammates or using respawn beacons, and creates a circle of decoys while cloaking during his ultimate."
+  },
+  {
+    "name": "Newcastle",
+    "realName": "Lamont Craig",
+    "nickname": "Mobile Guardian",
+    "quote": "Heroes never quit on their squad.",
+    "path": "/legends/newcastle",
+    "img": "/images/legends/newcastle.jpg",
+    "class": "Support",
+    "gender": "Male",
+    "age": "42",
+    "homeworld": "Unknown",
+    "passive": {
+      "name": "Retrieve the Wounded",
+      "description": "Drag downed allies as you revive and protect them with your Revive Shield."
+    },
+    "tactical": {
+      "name": "Mobile Shield",
+      "description": "Throw a controllable drone that creates a moving energy shield."
+    },
+    "ultimate": {
+      "name": "Castle Wall",
+      "description": "Leap to an ally or position and slam down, creating a fortified stronghold."
+    },
+    "description": "A selfless hero who puts his team above all else. Newcastle carries a mobile shield for protection while moving, can drag and revive allies behind cover, and leaps to teammates or locations to create a fortified castle wall for defensive positioning."
+  },
+  {
+    "name": "Octane",
+    "realName": "Octavio Silva",
+    "nickname": "High-Speed Daredevil",
+    "quote": "Faster! Faster! Faster!",
+    "path": "/legends/octane",
+    "img": "/images/legends/octane.jpg",
+    "class": "Skirmisher",
+    "gender": "Male",
+    "age": "24",
+    "homeworld": "Psamathe",
+    "passive": {
+      "name": "Swift Mend",
+      "description": "Automatically restores health over time."
+    },
+    "tactical": {
+      "name": "Stim",
+      "description": "Increase walk speed by 30% and sprint speed by 40% for 6 seconds. Costs health to use."
+    },
+    "ultimate": {
+      "name": "Launch Pad",
+      "description": "Deploy a jump pad that catapults teammates through the air."
+    },
+    "description": "An adrenaline junkie who lives for speed and thrills. Octane regenerates health passively, uses a stim to run significantly faster at the cost of health, and deploys jump pads that launch teammates into the air for aggressive pushes or quick escapes."
+  },
+  {
+    "name": "Pathfinder",
+    "realName": "MRVN",
+    "nickname": "Forward Scout",
+    "quote": "Hi friends!",
+    "path": "/legends/pathfinder",
+    "img": "/images/legends/pathfinder.jpg",
+    "class": "Skirmisher",
+    "gender": "Male (Robot)",
+    "age": "Unknown",
+    "homeworld": "Unknown",
+    "passive": {
+      "name": "Insider Knowledge",
+      "description": "Scan a survey beacon to reduce the cooldown of your ultimate."
+    },
+    "tactical": {
+      "name": "Grappling Hook",
+      "description": "Grapple to get to out-of-reach places quickly."
+    },
+    "ultimate": {
+      "name": "Zipline Gun",
+      "description": "Create a zipline for everyone to use."
+    },
+    "description": "A cheerful MRVN robot searching for his creator. Pathfinder uses his grappling hook for incredible mobility, scans survey beacons to reveal the next ring location, and creates ziplines for his entire team to quickly traverse the map and reach high ground."
+  },
+  {
+    "name": "Rampart",
+    "realName": "Ramya Parekh",
+    "nickname": "Base of Fire",
+    "quote": "If you can't keep up, stay out of the way.",
+    "path": "/legends/rampart",
+    "img": "/images/legends/rampart.jpg",
+    "class": "Controller",
+    "gender": "Female",
+    "age": "21",
+    "homeworld": "Gaea",
+    "passive": {
+      "name": "Modded Loader",
+      "description": "Increased magazine capacity and faster reload on LMGs and the minigun."
+    },
+    "tactical": {
+      "name": "Amped Cover",
+      "description": "Build a crouch-cover wall, which deploys a full-cover barrier that amps outgoing shots."
+    },
+    "ultimate": {
+      "name": "Mobile Minigun 'Sheila'",
+      "description": "Place a mounted machine gun that anyone can use. High ammo capacity, long reload time. Can be picked up and moved."
+    },
+    "description": "A modder and gunsmith who excels at fortified positions. Rampart builds amped cover walls that block incoming shots and boost outgoing damage, carries more ammo in LMGs, and deploys Sheila - a mounted minigun with devastating firepower."
+  },
+  {
+    "name": "Revenant",
+    "realName": "Kaleb Cross",
+    "nickname": "Synthetic Nightmare",
+    "quote": "I'm not thanking you.",
+    "path": "/legends/revenant",
+    "img": "/images/legends/revenant.jpg",
+    "class": "Assault",
+    "gender": "Male",
+    "age": "313 (44 as human)",
+    "homeworld": "Solace",
+    "passive": {
+      "name": "Assassin's Instinct",
+      "description": "Crouch walk faster and climb walls higher."
+    },
+    "tactical": {
+      "name": "Silence",
+      "description": "Throw a device that deals damage and disables enemy abilities for 15 seconds."
+    },
+    "ultimate": {
+      "name": "Forged Shadows",
+      "description": "Forge a shroud of hardened shadow that blocks direct damage and regenerates after breaking."
+    },
+    "description": "A vengeful simulacrum assassin with centuries of killing experience. Revenant climbs higher, crouches faster, disables enemy abilities with silence orbs, and enters Death Protection that sends him and his teammates to a totem upon death for aggressive plays."
+  },
+  {
+    "name": "Seer",
+    "realName": "Obi Edolasim",
+    "nickname": "Ambush Artist",
+    "quote": "The spotlight reveals all.",
+    "path": "/legends/seer",
+    "img": "/images/legends/seer.jpg",
+    "class": "Recon",
+    "gender": "Male",
+    "age": "26",
+    "homeworld": "Boreas",
+    "passive": {
+      "name": "Heart Seeker",
+      "description": "Hear and visualize the heartbeats of nearby enemies when aiming down sights."
+    },
+    "tactical": {
+      "name": "Focus of Attention",
+      "description": "Summon micro-drones to emit a delayed blast that goes through walls, interrupting and revealing enemies."
+    },
+    "ultimate": {
+      "name": "Exhibit",
+      "description": "Create a sphere of micro-drones that reveal the location of enemies moving quickly or firing their weapons within."
+    },
+    "description": "A cursed tracker blessed with microdrones. Seer hears and visualizes enemy heartbeats, sends out tactical drones that reveal, interrupt, and damage enemies through walls, and creates a sphere of microdrones that tracks all movement within its radius."
+  },
+  {
+    "name": "Sparrow",
+    "realName": "Unknown",
+    "nickname": "Agile Archer",
+    "quote": "Precision strikes before panic.",
+    "path": "/legends/sparrow",
+    "img": "/images/legends/sparrow.jpg",
+    "class": "Recon",
+    "gender": "Female",
+    "age": "Unknown",
+    "homeworld": "Unknown",
+    "passive": {
+      "name": "Eagle Eye",
+      "description": "Enhanced vision to spot enemies at longer ranges and see weak points."
+    },
+    "tactical": {
+      "name": "Tracking Arrow",
+      "description": "Fire a tracking arrow that marks enemies and reveals their position to teammates."
+    },
+    "ultimate": {
+      "name": "Barrage",
+      "description": "Rain down a volley of arrows in a targeted area dealing damage over time."
+    },
+    "description": "A skilled archer who combines precision with reconnaissance abilities. Sparrow uses her bow for silent, accurate eliminations, marks enemies for her team, and provides tactical information through careful observation and strategic positioning on the battlefield."
+  },
+  {
+    "name": "Valkyrie",
+    "realName": "Kairi Imahara",
+    "nickname": "Winged Avenger",
+    "quote": "Valkyrie's got you in the pipe, five by five.",
+    "path": "/legends/valkyrie",
+    "img": "/images/legends/valkyrie.jpg",
+    "class": "Recon",
+    "gender": "Female",
+    "age": "30",
+    "homeworld": "Angelia",
+    "passive": {
+      "name": "VTOL Jets",
+      "description": "Use jetpack to fly. Fuel is limited but refills over time."
+    },
+    "tactical": {
+      "name": "Missile Swarm",
+      "description": "Fire a swarm of mini-rockets that damage and disorient the enemy."
+    },
+    "ultimate": {
+      "name": "Skyward Dive",
+      "description": "Press once to prepare for launch. Teammates can interact to join you. Press again to launch into the air and skydive."
+    },
+    "description": "A skilled pilot with a custom jetpack made from her father's Northstar Titan. Valkyrie flies using VTOL jets, launches a swarm of missiles, scans survey beacons, and can skyward dive with her entire team for rapid repositioning across the map."
+  },
+  {
+    "name": "Vantage",
+    "realName": "Xiomara Mara Contreras",
+    "nickname": "Survivalist Sniper",
+    "quote": "Spot first. Shoot second.",
+    "path": "/legends/vantage",
+    "img": "/images/legends/vantage.jpg",
+    "class": "Recon",
+    "gender": "Female",
+    "age": "19",
+    "homeworld": "Págos",
+    "passive": {
+      "name": "Spotter's Lens",
+      "description": "Aim down sights to scout with your eyepiece and use a bullet drop indicator for snipers. Spotter's lens can reveal enemies to teammates."
+    },
+    "tactical": {
+      "name": "Echo Relocation",
+      "description": "Command your winged companion Echo to fly to a location. Press again to reposition to Echo's location."
+    },
+    "ultimate": {
+      "name": "Sniper's Mark",
+      "description": "Use your custom sniper rifle to mark enemies and apply a damage bonus for you and your team."
+    },
+    "description": "A young survivalist raised in the harsh Págos ice planet. Vantage can jump great distances with her bat Echo, spots and marks enemies revealing their info to her team, and uses a powerful custom sniper rifle that grants bonus damage on marked targets."
+  },
+  {
+    "name": "Wattson",
+    "realName": "Natalie Paquette",
+    "nickname": "Static Defender",
+    "quote": "Electricity I get. People I don't.",
+    "path": "/legends/wattson",
+    "img": "/images/legends/wattson.jpg",
+    "class": "Controller",
+    "gender": "Female",
+    "age": "22",
+    "homeworld": "Solace",
+    "passive": {
+      "name": "Spark of Genius",
+      "description": "Ultimate Accelerants fully charge your ultimate, and standing near interception pylons boosts your tactical recharge rate."
+    },
+    "tactical": {
+      "name": "Perimeter Security",
+      "description": "Create electrified fences by connecting nodes. Fences damage and slow enemies."
+    },
+    "ultimate": {
+      "name": "Interception Pylon",
+      "description": "Place an electrified pylon that destroys incoming ordnance and repairs damaged shields as long as it stands."
+    },
+    "description": "A brilliant electrical engineer who designed the Modified Containment Ring. Wattson places electrified fences that damage and slow enemies, charges shields near her pylon, and deploys an Interception Pylon that destroys incoming ordnance and repairs shields."
+  },
+  {
+    "name": "Wraith",
+    "realName": "Renee Hope Blasey",
+    "nickname": "Interdimensional Skirmisher",
+    "quote": "There's a thin line between life and death.",
+    "path": "/legends/wraith",
+    "img": "/images/legends/wraith.jpg",
+    "class": "Skirmisher",
+    "gender": "Female",
+    "age": "32",
+    "homeworld": "Typhon",
+    "passive": {
+      "name": "Voices from the Void",
+      "description": "A voice warns you when danger approaches. As far as you can tell, it's on your side."
+    },
+    "tactical": {
+      "name": "Into the Void",
+      "description": "Reposition quickly through the safety of void space, avoiding all damage."
+    },
+    "ultimate": {
+      "name": "Dimensional Rift",
+      "description": "Link two locations with portals for 60 seconds, allowing your entire team to use them."
+    },
+    "description": "A fierce warrior with interdimensional abilities who hears voices from the void. Wraith gets warned of danger, can phase into the void to avoid all damage, and creates portals that allow her entire team to travel quickly between two points on the map."
+  }
+]

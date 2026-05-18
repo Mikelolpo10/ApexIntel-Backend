@@ -1,0 +1,40 @@
+{
+  "Assault": [
+    "Ballistic",
+    "Bangalore",
+    "Fuse",
+    "Mad Maggie",
+    "Revenant"
+  ],
+  "Skirmisher": [
+    "Alter",
+    "Ash",
+    "Axle",
+    "Horizon",
+    "Octane",
+    "Pathfinder",
+    "Wraith"
+  ],
+  "Recon": [
+    "Bloodhound",
+    "Crypto",
+    "Seer",
+    "Sparrow",
+    "Valkyrie",
+    "Vantage"
+  ],
+  "Support": [
+    "Conduit",
+    "Gibraltar",
+    "Lifeline",
+    "Loba",
+    "Mirage",
+    "New Castle"
+  ],
+  "Controller": [
+    "Catalyst",
+    "Caustic",
+    "Rampart",
+    "Wattson"
+  ]
+}
