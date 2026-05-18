@@ -4,13 +4,18 @@ import legendsClass from '../data/legendsClass.json' with { type: 'json' }
 
 const router = express.Router()
 
-router.get('/legendsData', (req, res) => {
-  console.log(`Get data`)
+router.get('/legendsdata', (req, res) => {
   res.json(legendsData)
 })
 
-router.get('/legendsClass', (req, res) => {
-  console.log(`Get data`)
+router.get('/legendsdata/:name', (req, res) => {
+  const legendData = legendsData.find(legend => legend.name.toLowerCase() === req.params.name)
+
+  res.json(legendData)
+})
+
+
+router.get('/legendsclass', (req, res) => {
   res.json(legendsClass)
 })
 
