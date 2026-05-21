@@ -39,14 +39,17 @@
     "age": "121 (46 as human)",
     "homeworld": "Unknown",
     "passive": {
+      "img": "/images/legends/abilities/marked_for_death.webp",
       "name": "Marked for Death",
       "description": "Ash's map reveals the location of recent deathboxes and marks surviving attackers."
     },
     "tactical": {
+      "img": "/images/legends/abilities/arc_snare.webp",
       "name": "Arc Snare",
       "description": "Throw a spinning snare that damages and tethers the first enemy that gets too close."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/phase_breach.webp",
       "name": "Phase Breach",
       "description": "Tear open a one-way portal to a targeted location."
     },
@@ -64,14 +67,17 @@
     "age": "Unknown",
     "homeworld": "Unknown",
     "passive": {
+      "img": "/images/legends/abilities/speed_boost.webp",
       "name": "Speed Boost",
       "description": "Gains increased movement speed after eliminations or assists."
     },
     "tactical": {
+      "img": "/images/legends/abilities/nitro_rush.webp",
       "name": "Nitro Rush",
       "description": "Deploys a speed boost that propels Axle forward rapidly."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/velocity_drive.webp",
       "name": "Velocity Drive",
       "description": "Creates a speed track that boosts all teammates who use it."
     },
@@ -89,14 +95,17 @@
     "age": "63",
     "homeworld": "Gaea",
     "passive": {
+      "img": "/images/legends/abilities/sling.webp",
       "name": "Sling",
       "description": "Store a third weapon in the sling. Access the sling weapon using the toggle ability button."
     },
     "tactical": {
+      "img": "/images/legends/abilities/whistler.webp",
       "name": "Whistler",
       "description": "Shoots a device that heats up an enemy's gun as they shoot. Overheating causes damage."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/tempest.webp",
       "name": "Tempest",
       "description": "Nearby teammates get faster reloads, faster-charging armed and dangerous, and infinite ammo. Ballistic has faster movement and infinite ammo."
     },
@@ -114,14 +123,17 @@
     "age": "41",
     "homeworld": "Gridiron",
     "passive": {
+      "img": "/images/legends/abilities/double_time.webp",
       "name": "Double Time",
       "description": "Taking fire while sprinting makes you move faster for a brief time."
     },
     "tactical": {
+      "img": "/images/legends/abilities/smoke_launcher.webp",
       "name": "Smoke Launcher",
       "description": "Fire a high-velocity smoke canister that explodes into a smoke wall on impact."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/rolling_thunder.webp",
       "name": "Rolling Thunder",
       "description": "Call in an artillery strike that slowly creeps across the landscape."
     },
@@ -139,14 +151,17 @@
     "age": "Unknown",
     "homeworld": "Talos",
     "passive": {
+      "img": "/images/legends/abilities/tracker.webp",
       "name": "Tracker",
       "description": "See tracks left behind by your foes."
     },
     "tactical": {
+      "img": "/images/legends/abilities/eye_of_the_allfather.webp",
       "name": "Eye of the Allfather",
       "description": "Briefly reveal hidden enemies, traps, and clues throughout structures in front of you."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/beast_of_the_hunt.webp",
       "name": "Beast of the Hunt",
       "description": "Enhances your senses, allowing you to move faster and highlighting your prey."
     },
@@ -164,14 +179,17 @@
     "age": "30",
     "homeworld": "Boreas",
     "passive": {
+      "img": "/images/legends/abilities/barricade.webp",
       "name": "Barricade",
       "description": "Reinforce doors, strengthening them and locking them to enemies. Spaces where doors have been destroyed can also be reinforced."
     },
     "tactical": {
+      "img": "/images/legends/abilities/piercing_spikes.webp",
       "name": "Piercing Spikes",
       "description": "Throw out a patch of ferrofluid that turns into spikes when enemies are near. Catalyst is immune."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/dark_veil.webp",
       "name": "Dark Veil",
       "description": "Raise a permeable wall of ferrofluid. Enemies who walk through it are slowed and partially blinded."
     },
@@ -181,7 +199,7 @@
     "name": "Caustic",
     "realName": "Dr. Alexander Maxwell Nox",
     "nickname": "Toxic Trapper",
-    "quote": "I feel most alive when rapidly approaching my death.",
+    "quote": "I don't concern myself with the ambitions of insects.",
     "path": "/legends/caustic",
     "img": "/images/legends/caustic.webp",
     "class": "Controller",
@@ -189,49 +207,55 @@
     "age": "48",
     "homeworld": "Gaea",
     "passive": {
+      "img": "/images/legends/abilities/nox_vision.webp",
       "name": "Nox Vision",
       "description": "Allows you to see enemies through your gas."
     },
     "tactical": {
+      "img": "/images/legends/abilities/nox_gas_trap.webp",
       "name": "Nox Gas Trap",
       "description": "Drop canisters that release deadly Nox gas when shot or triggered by enemies."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/nox_gas_grenade.webp",
       "name": "Nox Gas Grenade",
-      "description": "Blankets a large area in Nox gas."
+      "description": "Blanket a large area in Nox gas."
     },
-    "description": "A toxic scientist who treats the arena as his laboratory. Caustic deploys deadly Nox gas traps that damage and disorient enemies, sees clearly through his own gas, and can blanket entire areas with his ultimate gas grenade for area denial."
+    "description": "A brilliant but morally ambiguous scientist who uses toxic gas as his weapon. Caustic deploys Nox gas traps that damage and slow enemies, sees through his own gas, and throws gas grenades to blanket areas in deadly toxins for area denial and control."
   },
   {
     "name": "Conduit",
-    "realName": "Rowdy Agajanya",
-    "nickname": "Shield Healer",
-    "quote": "Energy up! Let's keep everyone standing.",
+    "realName": "Rowdy Aimsley",
+    "nickname": "Supportive Shielder",
+    "quote": "I'm here to light the way.",
     "path": "/legends/conduit",
     "img": "/images/legends/conduit.webp",
     "class": "Support",
     "gender": "Female",
     "age": "28",
-    "homeworld": "Kaikaina",
+    "homeworld": "Boreas",
     "passive": {
+      "img": "/images/legends/abilities/savior's_speed.webp",
       "name": "Savior's Speed",
-      "description": "Gain a burst of speed towards allies that need health or shields."
+      "description": "Gain a speed boost when running towards a downed ally."
     },
     "tactical": {
+      "img": "/images/legends/abilities/radiant_transfer.webp",
       "name": "Radiant Transfer",
-      "description": "Send out an energy ball that regenerates the shields of the first teammate it hits."
+      "description": "Give an ally a shield or take some shields from them."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/energy_barricade.webp",
       "name": "Energy Barricade",
-      "description": "Deploy a device that creates a regeneration zone, gradually restoring shields to Conduit and her teammates inside."
+      "description": "Designate a targeted area for a temporary shield wall at any range."
     },
-    "description": "An energetic support legend who channels electrical energy to aid her team. Conduit can regenerate shields for herself and nearby allies, create energy barriers for protection, and provide sustained shield regeneration to keep her squad in the fight longer."
+    "description": "A protective support legend from Boreas who manipulates shield energy. Conduit can transfer shields between teammates, gains speed when running to downed allies, and deploys energy barricades for instant cover, making her invaluable for team sustainability and defense."
   },
   {
     "name": "Crypto",
-    "realName": "Park Tae Joon",
+    "realName": "Tae Joon Park",
     "nickname": "Surveillance Expert",
-    "quote": "I don't trust anyone.",
+    "quote": "I know all your secrets.",
     "path": "/legends/crypto",
     "img": "/images/legends/crypto.webp",
     "class": "Recon",
@@ -239,24 +263,27 @@
     "age": "31",
     "homeworld": "Gaea",
     "passive": {
+      "img": "/images/legends/abilities/neurolink.webp",
       "name": "Neurolink",
       "description": "Enemies detected by the surveillance drone within 30 meters of your position are marked for you and your teammates to see."
     },
     "tactical": {
+      "img": "/images/legends/abilities/surveillance_drone.webp",
       "name": "Surveillance Drone",
-      "description": "Deploy an aerial drone that can be controlled remotely to scout the area and mark enemies."
+      "description": "Deploy an aerial drone that you can control to scout the area. If your drone is destroyed you must wait before deploying a new one."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/drone_emp.webp",
       "name": "Drone EMP",
-      "description": "Charge up an EMP from your drone. The blast deals shield damage, slows enemies, and destroys traps."
+      "description": "Your drone sets off an EMP blast that deals shield damage, slows enemies, and disables traps."
     },
-    "description": "A brilliant hacker who uses his surveillance drone for reconnaissance and disruption. Crypto can scout areas safely, detect nearby enemies, hack survey beacons, and deploy an EMP that damages shields, destroys traps, and disables enemy equipment."
+    "description": "A brilliant hacker on the run from the law who uses surveillance technology. Crypto deploys an aerial drone to scout areas, hack survey beacons, pick up teammate banners, and unleash an EMP blast that damages shields and disables traps."
   },
   {
     "name": "Fuse",
-    "realName": "Walter Fitzroy",
+    "realName": "Walter Fitzroy Jr.",
     "nickname": "Explosives Enthusiast",
-    "quote": "This is gonna be a blast, mate!",
+    "quote": "Blow me bloody socks off!",
     "path": "/legends/fuse",
     "img": "/images/legends/fuse.webp",
     "class": "Assault",
@@ -264,24 +291,27 @@
     "age": "54",
     "homeworld": "Salvo",
     "passive": {
+      "img": "/images/legends/abilities/grenadier.webp",
       "name": "Grenadier",
       "description": "Stack an extra grenade per inventory slot. Fire grenades farther, faster, and more accurately with your arm-mounted launcher."
     },
     "tactical": {
+      "img": "/images/legends/abilities/knuckle_cluster.webp",
       "name": "Knuckle Cluster",
       "description": "Launch a cluster bomb that continuously expels airburst explosives on impact."
     },
     "ultimate": {
-      "name": "The Motherload",
+      "img": "/images/legends/abilities/the_motherlode.webp",
+      "name": "The Motherlode",
       "description": "Launch a bombardment that encircles a target area in a wall of flame."
     },
-    "description": "An explosives expert from Salvo who loves a good brawl. Fuse carries extra grenades, launches them farther and more accurately with his mechanical arm, fires cluster bombs with his knuckle cluster, and encircles enemies with his Motherload ring of fire."
+    "description": "An explosives-loving legend from Salvo who brings devastating firepower. Fuse carries extra grenades, throws them farther with his mechanical arm, launches cluster bombs that explode multiple times, and creates rings of fire to trap and damage enemies."
   },
   {
     "name": "Gibraltar",
     "realName": "Makoa Gibraltar",
     "nickname": "Shielded Fortress",
-    "quote": "Don't worry, bruddah, Gibraltar's got your back.",
+    "quote": "I'm here to save the day.",
     "path": "/legends/gibraltar",
     "img": "/images/legends/gibraltar.webp",
     "class": "Support",
@@ -289,49 +319,83 @@
     "age": "30",
     "homeworld": "Solace",
     "passive": {
+      "img": "/images/legends/abilities/gun_shield.webp",
       "name": "Gun Shield",
       "description": "Aiming down sights deploys a gun shield that blocks incoming fire."
     },
     "tactical": {
+      "img": "/images/legends/abilities/dome_of_protection.webp",
       "name": "Dome of Protection",
       "description": "Throw down a dome shield that blocks attacks for 15 seconds."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/defensive_bombardment.webp",
       "name": "Defensive Bombardment",
       "description": "Call in a concentrated mortar strike on a marked position."
     },
-    "description": "A gentle giant and protective defender who shields his teammates from harm. Gibraltar deploys a gun shield when aiming, throws down dome shields for full protection, and calls in defensive bombardments that damage enemies while providing cover for revives."
+    "description": "A gentle giant and SARAS volunteer who protects his team. Gibraltar deploys a gun shield when aiming, throws dome shields for temporary cover, takes less damage due to his fortified perk, and calls in defensive bombardments to zone enemies."
   },
   {
     "name": "Horizon",
     "realName": "Dr. Mary Somers",
     "nickname": "Gravitational Manipulator",
-    "quote": "Another soft landing.",
+    "quote": "Science is just magic with a proper explanation.",
     "path": "/legends/horizon",
     "img": "/images/legends/horizon.webp",
     "class": "Skirmisher",
     "gender": "Female",
-    "age": "125 (37 chronologically)",
+    "age": "125 (37 in subjective time)",
     "homeworld": "Psamathe",
     "passive": {
+      "img": "/images/legends/abilities/spacewalk.webp",
       "name": "Spacewalk",
       "description": "Increase air control and reduce fall impacts with Horizon's custom spacesuit."
     },
     "tactical": {
+      "img": "/images/legends/abilities/gravity_lift.webp",
       "name": "Gravity Lift",
       "description": "Reverse the flow of gravity, lifting players upward and boosting them outward when they exit."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/black_hole.webp",
       "name": "Black Hole",
-      "description": "Deploy NEWT to create a micro black hole that pulls players in towards it."
+      "description": "Deploy NEWT to create a micro black hole that pulls players in towards it, and hits them with graviton blasts."
     },
-    "description": "A brilliant astrophysicist who controls gravity to her advantage. Horizon deploys gravity lifts for vertical mobility, maintains increased air control, and creates black holes with NEWT that pull in nearby enemies and objects, making them easy targets."
+    "description": "A brilliant astrophysicist who uses gravity manipulation technology. Horizon deploys gravity lifts for vertical mobility, has better air control and reduced fall stun, and creates black holes that pull enemies together for devastating combos."
+  },
+  {
+    "name": "Hound",
+    "realName": "Unknown",
+    "nickname": "Relentless Hunter",
+    "quote": "The hunt never ends.",
+    "path": "/legends/hound",
+    "img": "/images/legends/hound.webp",
+    "class": "Recon",
+    "gender": "Unknown",
+    "age": "Unknown",
+    "homeworld": "Unknown",
+    "passive": {
+      "img": "/images/legends/abilities/scent_tracker.webp",
+      "name": "Scent Tracker",
+      "description": "Follow enemy trails and detect recent activity in the area."
+    },
+    "tactical": {
+      "img": "/images/legends/abilities/tracking_dart.webp",
+      "name": "Tracking Dart",
+      "description": "Fire a dart that marks enemies and reveals their movement patterns."
+    },
+    "ultimate": {
+      "img": "/images/legends/abilities/predator_mode.webp",
+      "name": "Predator Mode",
+      "description": "Enhanced tracking abilities and increased movement speed for aggressive pursuits."
+    },
+    "description": "A specialized hunter who excels at tracking and pursuing targets across any terrain. Hound combines advanced sensory technology with primal hunting instincts, making them a persistent threat that can follow enemies anywhere and corner them with ruthless efficiency."
   },
   {
     "name": "Lifeline",
     "realName": "Ajay Che",
     "nickname": "Combat Medic",
-    "quote": "Never leave your squad behind.",
+    "quote": "Never quit. That's my motto.",
     "path": "/legends/lifeline",
     "img": "/images/legends/lifeline.webp",
     "class": "Support",
@@ -339,49 +403,55 @@
     "age": "24",
     "homeworld": "Psamathe",
     "passive": {
+      "img": "/images/legends/abilities/combat_revive.webp",
       "name": "Combat Revive",
-      "description": "Deploy D.O.C. to revive teammates, leaving you free to move and defend."
+      "description": "Deploy D.O.C. to revive teammates. Lifeline can still move and fight while D.O.C. is reviving."
     },
     "tactical": {
+      "img": "/images/legends/abilities/doc_heal_drone.webp",
       "name": "D.O.C. Heal Drone",
-      "description": "The Drone of Compassion (D.O.C.) automatically heals nearby teammates over time."
+      "description": "Call your Drone of Compassion to automatically heal nearby teammates over time."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/care_package.webp",
       "name": "Care Package",
       "description": "Call in a drop pod full of high-quality defensive gear."
     },
-    "description": "The heart of any squad and a dedicated combat medic. Lifeline deploys D.O.C. heal drone for automated healing, can revive teammates with a shield wall, and calls in care packages containing valuable equipment and healing supplies for her team."
+    "description": "A combat medic from a wealthy family who uses her resources to help others. Lifeline deploys a healing drone, revives teammates with her D.O.C. while still fighting, and calls in care packages with defensive equipment and healing items."
   },
   {
     "name": "Loba",
     "realName": "Loba Andrade",
     "nickname": "Translocating Thief",
-    "quote": "I'm a woman who knows what she wants.",
+    "quote": "Beauty is power.",
     "path": "/legends/loba",
     "img": "/images/legends/loba.webp",
     "class": "Support",
     "gender": "Female",
     "age": "34",
-    "homeworld": "Unknown",
+    "homeworld": "None",
     "passive": {
+      "img": "/images/legends/abilities/eye_for_quality.webp",
       "name": "Eye for Quality",
-      "description": "Nearby epic and legendary loot can be seen through walls. The range is the same as Black Market Boutique."
+      "description": "See nearby epic and legendary loot through walls."
     },
     "tactical": {
+      "img": "/images/legends/abilities/burglar's_best_friend.webp",
       "name": "Burglar's Best Friend",
-      "description": "Teleport to hard-to-reach places or escape trouble quickly by throwing your jump drive bracelet."
+      "description": "Throw a bracelet that teleports you to hard-to-reach places or escape danger."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/black_market_boutique.webp",
       "name": "Black Market Boutique",
-      "description": "Place a portable device that allows you to teleport nearby loot to your inventory. Each friendly or enemy Legend can take up to two items."
+      "description": "Place a portable device that allows everyone to teleport nearby loot to their inventory."
     },
-    "description": "A high-society thief with a taste for the finer things. Loba teleports using her bracelet for repositioning, sees nearby purple and gold loot through walls, and deploys her Black Market to let her team grab valuable items from the surrounding area."
+    "description": "A high-society thief seeking revenge against Revenant. Loba sees nearby purple and gold loot through walls, teleports to locations using her bracelet, and deploys a Black Market that lets teammates teleport loot from nearby areas."
   },
   {
     "name": "Mad Maggie",
     "realName": "Margaret Kōhere",
     "nickname": "Rebel Warlord",
-    "quote": "Fight dirty or die clean.",
+    "quote": "Get bloody or get lost.",
     "path": "/legends/mad-maggie",
     "img": "/images/legends/mad-maggie.webp",
     "class": "Assault",
@@ -389,18 +459,21 @@
     "age": "55",
     "homeworld": "Salvo",
     "passive": {
+      "img": "/images/legends/abilities/warlord's_ire.webp",
       "name": "Warlord's Ire",
-      "description": "Temporarily highlight enemies you've damaged. Move faster with a shotgun."
+      "description": "Temporarily highlight enemies you've damaged, and move faster with shotguns."
     },
     "tactical": {
+      "img": "/images/legends/abilities/riot_drill.webp",
       "name": "Riot Drill",
       "description": "Fire a drill that attaches to an obstacle and burns enemies on the other side."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/wrecking_ball.webp",
       "name": "Wrecking Ball",
       "description": "Throw a ball that releases speed-boosting pads and detonates near enemies."
     },
-    "description": "A fierce warlord from Salvo who loves chaos and aggression. Mad Maggie runs faster with shotguns, sees enemies she's damaged, drills through obstacles with her Riot Drill to damage enemies behind cover, and rolls a wrecking ball that speeds up teammates and highlights enemies."
+    "description": "A fierce warlord from Salvo with a vendetta against Fuse. Mad Maggie excels in aggressive close-quarters combat, moves faster with shotguns, drills through cover to burn enemies, and throws wrecking balls that speed up allies and damage enemies."
   },
   {
     "name": "Mirage",
@@ -414,49 +487,55 @@
     "age": "30",
     "homeworld": "Solace",
     "passive": {
+      "img": "/images/legends/abilities/now_you_see_me.webp",
       "name": "Now You See Me...",
-      "description": "Automatically cloak when using a Respawn Beacon and reviving teammates. Spawn decoys when downed."
+      "description": "Automatically drop a decoy and cloak when knocked down. Cloak when using a respawn beacon."
     },
     "tactical": {
+      "img": "/images/legends/abilities/psyche_out.webp",
       "name": "Psyche Out",
       "description": "Send out a holographic decoy to confuse the enemy."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/life_of_the_party.webp",
       "name": "Life of the Party",
-      "description": "Mirage deploys a team of decoys to distract enemies while he cloaks."
+      "description": "Deploy a team of controllable decoys to distract enemies."
     },
-    "description": "A charming trickster who uses holographic technology to confuse enemies. Mirage sends out decoys to bait opponents, becomes invisible when reviving teammates or using respawn beacons, and creates a circle of decoys while cloaking during his ultimate."
+    "description": "A charming joker who uses holographic technology to bamboozle enemies. Mirage sends out decoys to confuse opponents, turns invisible when reviving or respawning teammates, and deploys a whole team of decoys with his ultimate for chaos."
   },
   {
     "name": "Newcastle",
     "realName": "Lamont Craig",
-    "nickname": "Mobile Guardian",
-    "quote": "Heroes never quit on their squad.",
+    "nickname": "Mobile Defender",
+    "quote": "I protect what matters.",
     "path": "/legends/newcastle",
     "img": "/images/legends/newcastle.webp",
     "class": "Support",
     "gender": "Male",
     "age": "42",
-    "homeworld": "Unknown",
+    "homeworld": "Solace",
     "passive": {
+      "img": "/images/legends/abilities/retrieve_the_wounded.webp",
       "name": "Retrieve the Wounded",
-      "description": "Drag downed allies as you revive and protect them with your Revive Shield."
+      "description": "Drag downed allies as you revive and protect them with your revive shield."
     },
     "tactical": {
+      "img": "/images/legends/abilities/mobile_shield.webp",
       "name": "Mobile Shield",
       "description": "Throw a controllable drone that creates a moving energy shield."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/castle_wall.webp",
       "name": "Castle Wall",
-      "description": "Leap to an ally or position and slam down, creating a fortified stronghold."
+      "description": "Leap to an ally or target area and slam down, creating a fortified stronghold."
     },
-    "description": "A selfless hero who puts his team above all else. Newcastle carries a mobile shield for protection while moving, can drag and revive allies behind cover, and leaps to teammates or locations to create a fortified castle wall for defensive positioning."
+    "description": "A former soldier who assumed the Newcastle identity to protect his family. He drags allies while reviving them behind a shield, throws a moving drone shield for mobile cover, and leaps to create fortified walls for instant defensive positions."
   },
   {
     "name": "Octane",
     "realName": "Octavio Silva",
     "nickname": "High-Speed Daredevil",
-    "quote": "Faster! Faster! Faster!",
+    "quote": "Faster, faster, faster!",
     "path": "/legends/octane",
     "img": "/images/legends/octane.webp",
     "class": "Skirmisher",
@@ -464,49 +543,55 @@
     "age": "24",
     "homeworld": "Psamathe",
     "passive": {
+      "img": "/images/legends/abilities/swift_mend.webp",
       "name": "Swift Mend",
       "description": "Automatically restores health over time."
     },
     "tactical": {
+      "img": "/images/legends/abilities/stim.webp",
       "name": "Stim",
-      "description": "Increase walk speed by 30% and sprint speed by 40% for 6 seconds. Costs health to use."
+      "description": "Move 30% faster for six seconds. Costs health to use."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/launch_pad.webp",
       "name": "Launch Pad",
-      "description": "Deploy a jump pad that catapults teammates through the air."
+      "description": "Deploy a jump pad that catapults users through the air."
     },
-    "description": "An adrenaline junkie who lives for speed and thrills. Octane regenerates health passively, uses a stim to run significantly faster at the cost of health, and deploys jump pads that launch teammates into the air for aggressive pushes or quick escapes."
+    "description": "An adrenaline junkie who lost his legs in a stunt and replaced them with bionic ones. Octane regenerates health passively, uses stim to run extremely fast at the cost of health, and deploys jump pads to launch himself and teammates into the air."
   },
   {
     "name": "Pathfinder",
     "realName": "MRVN",
     "nickname": "Forward Scout",
-    "quote": "Hi friends!",
+    "quote": "Who's ready to fly on a zipline? I am!",
     "path": "/legends/pathfinder",
     "img": "/images/legends/pathfinder.webp",
     "class": "Skirmisher",
     "gender": "Male (Robot)",
-    "age": "Unknown",
+    "age": "76",
     "homeworld": "Unknown",
     "passive": {
+      "img": "/images/legends/abilities/insider_knowledge.webp",
       "name": "Insider Knowledge",
-      "description": "Scan a survey beacon to reduce the cooldown of your ultimate."
+      "description": "Scan a survey beacon to reveal the ring's next location and reduce the cooldown of Zipline Gun."
     },
     "tactical": {
+      "img": "/images/legends/abilities/grappling_hook.webp",
       "name": "Grappling Hook",
-      "description": "Grapple to get to out-of-reach places quickly."
+      "description": "Grapple to quickly reach out-of-the-way places."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/zipline_gun.webp",
       "name": "Zipline Gun",
       "description": "Create a zipline for everyone to use."
     },
-    "description": "A cheerful MRVN robot searching for his creator. Pathfinder uses his grappling hook for incredible mobility, scans survey beacons to reveal the next ring location, and creates ziplines for his entire team to quickly traverse the map and reach high ground."
+    "description": "A cheerful MRVN robot searching for his creator. Pathfinder uses his grappling hook for rapid mobility and repositioning, scans survey beacons to reveal ring locations, and creates ziplines that allow entire teams to traverse long distances."
   },
   {
     "name": "Rampart",
     "realName": "Ramya Parekh",
     "nickname": "Base of Fire",
-    "quote": "If you can't keep up, stay out of the way.",
+    "quote": "Cover me, I'm reloading!",
     "path": "/legends/rampart",
     "img": "/images/legends/rampart.webp",
     "class": "Controller",
@@ -514,14 +599,17 @@
     "age": "21",
     "homeworld": "Gaea",
     "passive": {
+      "img": "/images/legends/abilities/modded_loader.webp",
       "name": "Modded Loader",
-      "description": "Increased magazine capacity and faster reload on LMGs and the minigun."
+      "description": "Increased magazine capacity and faster reload speed when using LMGs and the Minigun."
     },
     "tactical": {
+      "img": "/images/legends/abilities/amped_cover.webp",
       "name": "Amped Cover",
-      "description": "Build a crouch-cover wall, which deploys a full-cover barrier that amps outgoing shots."
+      "description": "Build a crouch-cover wall that deploys a full-cover shield above it. Shots fired through the shield are amplified."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/mobile_minigun_sheila.webp",
       "name": "Mobile Minigun 'Sheila'",
       "description": "Place a mounted machine gun that anyone can use. High ammo capacity, long reload time. Can be picked up and moved."
     },
@@ -539,14 +627,17 @@
     "age": "313 (44 as human)",
     "homeworld": "Solace",
     "passive": {
+      "img": "/images/legends/abilities/assassin's_instinct.webp",
       "name": "Assassin's Instinct",
       "description": "Crouch walk faster and climb walls higher."
     },
     "tactical": {
+      "img": "/images/legends/abilities/silence.webp",
       "name": "Silence",
       "description": "Throw a device that deals damage and disables enemy abilities for 15 seconds."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/forged_shadows.webp",
       "name": "Forged Shadows",
       "description": "Forge a shroud of hardened shadow that blocks direct damage and regenerates after breaking."
     },
@@ -564,14 +655,17 @@
     "age": "26",
     "homeworld": "Boreas",
     "passive": {
+      "img": "/images/legends/abilities/heart_seeker.webp",
       "name": "Heart Seeker",
       "description": "Hear and visualize the heartbeats of nearby enemies when aiming down sights."
     },
     "tactical": {
+      "img": "/images/legends/abilities/focus_of_attention.webp",
       "name": "Focus of Attention",
       "description": "Summon micro-drones to emit a delayed blast that goes through walls, interrupting and revealing enemies."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/exhibit.webp",
       "name": "Exhibit",
       "description": "Create a sphere of micro-drones that reveal the location of enemies moving quickly or firing their weapons within."
     },
@@ -589,14 +683,17 @@
     "age": "Unknown",
     "homeworld": "Unknown",
     "passive": {
+      "img": "/images/legends/abilities/eagle_eye.webp",
       "name": "Eagle Eye",
       "description": "Enhanced vision to spot enemies at longer ranges and see weak points."
     },
     "tactical": {
+      "img": "/images/legends/abilities/tracking_arrow.webp",
       "name": "Tracking Arrow",
       "description": "Fire a tracking arrow that marks enemies and reveals their position to teammates."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/barrage.webp",
       "name": "Barrage",
       "description": "Rain down a volley of arrows in a targeted area dealing damage over time."
     },
@@ -614,14 +711,17 @@
     "age": "30",
     "homeworld": "Angelia",
     "passive": {
+      "img": "/images/legends/abilities/vtol_jets.webp",
       "name": "VTOL Jets",
       "description": "Use jetpack to fly. Fuel is limited but refills over time."
     },
     "tactical": {
+      "img": "/images/legends/abilities/missile_swarm.webp",
       "name": "Missile Swarm",
       "description": "Fire a swarm of mini-rockets that damage and disorient the enemy."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/skyward_dive.webp",
       "name": "Skyward Dive",
       "description": "Press once to prepare for launch. Teammates can interact to join you. Press again to launch into the air and skydive."
     },
@@ -639,14 +739,17 @@
     "age": "19",
     "homeworld": "Págos",
     "passive": {
+      "img": "/images/legends/abilities/spotter's_lens.webp",
       "name": "Spotter's Lens",
       "description": "Aim down sights to scout with your eyepiece and use a bullet drop indicator for snipers. Spotter's lens can reveal enemies to teammates."
     },
     "tactical": {
+      "img": "/images/legends/abilities/echo_relocation.webp",
       "name": "Echo Relocation",
       "description": "Command your winged companion Echo to fly to a location. Press again to reposition to Echo's location."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/sniper's_mark.webp",
       "name": "Sniper's Mark",
       "description": "Use your custom sniper rifle to mark enemies and apply a damage bonus for you and your team."
     },
@@ -664,14 +767,17 @@
     "age": "22",
     "homeworld": "Solace",
     "passive": {
+      "img": "/images/legends/abilities/spark_of_genius.webp",
       "name": "Spark of Genius",
       "description": "Ultimate Accelerants fully charge your ultimate, and standing near interception pylons boosts your tactical recharge rate."
     },
     "tactical": {
+      "img": "/images/legends/abilities/perimeter_security.webp",
       "name": "Perimeter Security",
       "description": "Create electrified fences by connecting nodes. Fences damage and slow enemies."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/interception_pylon.webp",
       "name": "Interception Pylon",
       "description": "Place an electrified pylon that destroys incoming ordnance and repairs damaged shields as long as it stands."
     },
@@ -689,14 +795,17 @@
     "age": "32",
     "homeworld": "Typhon",
     "passive": {
+      "img": "/images/legends/abilities/voices_from_the_void.webp",
       "name": "Voices from the Void",
       "description": "A voice warns you when danger approaches. As far as you can tell, it's on your side."
     },
     "tactical": {
+      "img": "/images/legends/abilities/into_the_void.webp",
       "name": "Into the Void",
       "description": "Reposition quickly through the safety of void space, avoiding all damage."
     },
     "ultimate": {
+      "img": "/images/legends/abilities/dimensional_rift.webp",
       "name": "Dimensional Rift",
       "description": "Link two locations with portals for 60 seconds, allowing your entire team to use them."
     },
