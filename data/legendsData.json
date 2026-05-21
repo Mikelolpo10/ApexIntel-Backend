@@ -362,36 +362,7 @@
       "description": "Deploy NEWT to create a micro black hole that pulls players in towards it, and hits them with graviton blasts."
     },
     "description": "A brilliant astrophysicist who uses gravity manipulation technology. Horizon deploys gravity lifts for vertical mobility, has better air control and reduced fall stun, and creates black holes that pull enemies together for devastating combos."
-  },
-  {
-    "name": "Hound",
-    "realName": "Unknown",
-    "nickname": "Relentless Hunter",
-    "quote": "The hunt never ends.",
-    "path": "/legends/hound",
-    "img": "/images/legends/hound.webp",
-    "class": "Recon",
-    "gender": "Unknown",
-    "age": "Unknown",
-    "homeworld": "Unknown",
-    "passive": {
-      "img": "/images/legends/abilities/scent_tracker.webp",
-      "name": "Scent Tracker",
-      "description": "Follow enemy trails and detect recent activity in the area."
-    },
-    "tactical": {
-      "img": "/images/legends/abilities/tracking_dart.webp",
-      "name": "Tracking Dart",
-      "description": "Fire a dart that marks enemies and reveals their movement patterns."
-    },
-    "ultimate": {
-      "img": "/images/legends/abilities/predator_mode.webp",
-      "name": "Predator Mode",
-      "description": "Enhanced tracking abilities and increased movement speed for aggressive pursuits."
-    },
-    "description": "A specialized hunter who excels at tracking and pursuing targets across any terrain. Hound combines advanced sensory technology with primal hunting instincts, making them a persistent threat that can follow enemies anywhere and corner them with ruthless efficiency."
-  },
-  {
+  }, {
     "name": "Lifeline",
     "realName": "Ajay Che",
     "nickname": "Combat Medic",
