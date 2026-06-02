@@ -1,6 +1,6 @@
 import cors from 'cors'
 import express from 'express'
-import legendsRouter from './routers/legends.js'
+import legendsRouter from './routers/legends.ts'
 
 const app = express()
 const PORT = process.env.PORT || 3000
